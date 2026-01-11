@@ -3,4 +3,4 @@
 Para ejecutar el script, pegá la siguiente línea en tu executor de Roblox:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rysted/scripts/main/screengui.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rysted/scripts/main/gui.lua"))()
