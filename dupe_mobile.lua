@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/1030764fdccb4987"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/6a5bb7666d33e1fa59e952e74cf203acf99954fc0e7cee4e803f50704c215410/download"))()
