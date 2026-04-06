@@ -1,0 +1,6 @@
+## 📌 Ejecución del Script
+
+Para ejecutar el script, pegá la siguiente línea en tu executor:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rysted/scripts/main/gui.lua"))()
